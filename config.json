@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sql-database-design",
+      "title": "SQL & Database Design",
+      "description": "Learn SQL, database design, and interact with databases using SQLAlchemy ORM.",
+      "path": "assignments/sql-database-design",
+      "dueDate": "2026-07-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
